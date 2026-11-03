@@ -1,0 +1,7 @@
+# Vivado-byggfiler
+work/
+.Xil/
+*.jou
+*.log
+*.dcp
+*.bit
